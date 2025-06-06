@@ -12,7 +12,7 @@ This table contains BPS patches for Chrono Trigger (USA) and Chrono Trigger (Jap
 ## Video
 
 [![
-What Happens When You Remove Black Bars in Chrono Trigger?](https://img.youtube.com/vi/PI3wsDg4YwQ/0.jpg)](https://www.youtube.com/watch?v=PI3wsDg4YwQ)
+What Happens When You Remove the Bottom Black Bar in Chrono Trigger?](https://img.youtube.com/vi/PI3wsDg4YwQ/0.jpg)](https://www.youtube.com/watch?v=PI3wsDg4YwQ)
 
 ## How the Patch Works
 
